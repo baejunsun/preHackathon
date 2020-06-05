@@ -1,0 +1,16 @@
+.main{
+    background-color: khaki;
+    width: 100%; 
+}
+.recipes{
+    background-color: lemonchiffon;
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+}
+.recipe{
+    background-color: lightseagreen;
+    width: 30%;
+    height: 500px;
+    margin: 10px;
+}
